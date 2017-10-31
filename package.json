@@ -1,0 +1,16 @@
+{
+  "name": "crypto-random-hex",
+  "version": "0.0.0",
+  "license": "MIT",
+  "repository": "LinusU/crypto-random-hex",
+  "browser": "browser.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "dependencies": {
+    "array-buffer-to-hex": "^1.0.0"
+  },
+  "devDependencies": {
+    "standard": "^10.0.3"
+  }
+}
